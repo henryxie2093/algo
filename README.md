@@ -1,2 +1,2 @@
 # algo
-algo practise
+算法学习笔记
